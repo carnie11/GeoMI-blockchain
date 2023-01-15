@@ -1,8 +1,6 @@
-# Group6Blockchain
+# Prototype blockchain using Javascript
 
-Group 6 assignment
-
-**BUILD A BLOCKCHAIN-BASED WEB APPLICATION PROTOTYPE**
+Group assignment at the Blockchain dev program at Medieinstitutet 2022.
 
 **Short summary**
 
