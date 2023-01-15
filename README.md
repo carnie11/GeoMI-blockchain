@@ -1,5 +1,8 @@
 # Prototype blockchain using Javascript
 
+User name: Carolin 
+Password: Nielsen
+
 Group assignment at the Blockchain dev program at Medieinstitutet 2022.
 
 **Short summary**
