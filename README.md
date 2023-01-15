@@ -27,3 +27,7 @@ For example, the transportation industry could implement it to securely and effi
 
 Another transportation-related use could be delivery of goods from producer to client. By adding a QR-code to the item you could easily track the transportation route to be able to estimate delivery times in real-time, and also to track where the item gets stuck should it fail to be delivered. 
 
+
+
+
+![2023-01-15 (1)](https://user-images.githubusercontent.com/113106103/212539273-be0d864d-2647-481c-aa00-5e5864614e6b.png)
